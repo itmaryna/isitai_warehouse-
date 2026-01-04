@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-04",
+  "items": [
+    {
+      "artName": "Composition X (1939)",
+      "author": "Wassily Kandinsky",
+      "artCuriousFact": "An abstract oil painting on a predominantly black field, with floating, sharply colored forms that read like a late-career “cosmic” arrangement—less about objects, more about rhythm, tension, and balance. It is held by Kunstsammlung Nordrhein-Westfalen (Düsseldorf).\n\nCurious fact: It’s the last of Kandinsky’s ten “Composition” paintings, and the dominant black was associated by him with closure/endings, making the palette choice unusually symbolic for his work.",
+      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level3_composition-x-1939.jpg",
+      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level3_composition-x-1939.jpg"
+    },
+    {
+      "artName": "Yellow-Red-Blue (Gelb-Rot-Blau) (1925)",
+      "author": "Wassily Kandinsky",
+      "artCuriousFact": "A Bauhaus-era abstract composition built from geometric elements and color blocks, created in Weimar (spring 1925). The work is in the Centre Pompidou (Musée National d’Art Moderne), Paris.\n\nCurious fact: The painting entered the museum via a donation by Nina Kandinsky (1976)—a key reason why many major Kandinsky works are now in French collections.",
+      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level3_yellow-red-blue-1925.jpg",
+      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level3_yellow-red-blue-1925.jpg"
+    },
+    {
+      "artName": "Mona Lisa (La Gioconda) (c. 1503–1506; possibly worked on later)",
+      "author": "Leonardo da Vinci",
+      "artCuriousFact": "Description: A half-length portrait, oil on a poplar panel, traditionally identified as Lisa del Giocondo; famous for Leonardo’s sfumato (smoky transitions) and the ambiguous expression. Displayed at the Louvre in Paris.\n\nCurious fact: Its modern celebrity spiked after the 1911 theft (recovered in 1914), which generated massive international publicity.",
+      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level5_monalisa.jpg",
+      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level5_%20monalisa.png",
+      "comment": "Your original Notion link had a space: 'ai_level5_ monalisa.png'. In URLs this must be encoded as %20."
+    },
+    {
+      "artName": "Self-Portrait with Brushes (1942)",
+      "author": "Hans Hofmann",
+      "artCuriousFact": "A lively, stylized self-portrait showing Hofmann “at work,” using bold outlines and exaggerated features; it reads as both character study and statement of artistic identity.\n\nCurious fact: Hofmann is not only a major painter—he is widely regarded as one of the most influential art teachers of the 20th century, shaping generations of postwar American artists and helping set the stage for Abstract Expressionism.",
+      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level5_self-portrait-with-brushes-1942.jpg",
+      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level5_self-portrait-with-brushes-1942.png"
+    },
+    {
+      "artName": "Deep Within the Ravine (1965)",
+      "author": "Hans Hofmann",
+      "artCuriousFact": "A large-scale abstract oil painting that uses blocks and collisions of color to create depth and pressure—very aligned with Hofmann’s “push/pull” thinking about space in abstraction. The work is in The Metropolitan Museum of Art (New York).\n\nCurious fact: The Met’s example came via the Bequest of Renate Hofmann (1992), tying the painting directly to the artist’s estate history.",
+      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level7_deep-within-the-ravine-1965.jpg",
+      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level7_deep-within-the-ravine-1965.jpg"
+    }
+  ]
+}
