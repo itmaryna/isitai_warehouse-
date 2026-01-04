@@ -1,42 +1,480 @@
 {
-  "version": 1,
+  "version": 2,
+  "releaseTag": "art_barch_monet_dali_picasso",
   "updatedAt": "2026-01-04",
+  "baseReleaseUrl": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/",
   "items": [
     {
+      "id": "apparatus-and-hand-1927",
+      "level": 2,
+      "artName": "Apparatus and Hand (1927)",
+      "author": "Georges Braque (verify)",
+      "description": "A late Cubist still-life motif: objects are reduced to interlocking planes, with an emphasis on structure, material, and the relationship between hand-made marks and depicted forms.",
+      "curiousFact": "Cubist still lifes often hide multiple viewpoints in one image—your eye “rebuilds” the object as you scan across the planes.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_apparatus-and-hand-1927.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_apparatus-and-hand-1927.jpg.Large.jpg"
+    },
+    {
+      "id": "la-chata-1899",
+      "level": 2,
+      "artName": "La Chata (1899)",
+      "author": "Pablo Picasso (verify)",
+      "description": "An early-period portrait-like work that reads as observational and character-driven, typically associated with the artist’s formative years and experiments with realism and social types.",
+      "curiousFact": "Picasso’s earliest years include many studies of everyday people and street life—long before the styles he became famous for.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_leve2_la-chata-1899.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_leve2_la-chata-1899.jpg"
+    },
+    {
+      "id": "1903-1",
+      "level": 2,
+      "artName": "Untitled (1903-1)",
+      "author": "Pablo Picasso (verify)",
+      "description": "A work that likely sits in an early-1900s transitional phase, where mood, simplified forms, and restrained palettes were commonly used to convey psychological tone.",
+      "curiousFact": "Many early works are catalogued with numeric identifiers when titles were never fixed or were lost across collections and publications.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_1903-1.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_1903-1.jpg"
+    },
+    {
+      "id": "birds-of-a-feather-1920",
+      "level": 2,
+      "artName": "Birds of a Feather (1920)",
+      "author": "Georges Braque (verify)",
+      "description": "A Cubist-era composition that likely integrates natural motifs into a structured arrangement of flattened shapes and subtle tonal shifts.",
+      "curiousFact": "Braque frequently embedded recognizable motifs (instruments, birds, newspaper fragments) inside abstract structure—like visual “easter eggs.”",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_birds-of-a-feather-1920.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_birds-of-a-feather-1920.jpg.Large.jpg"
+    },
+    {
+      "id": "bottle-of-vieux-marc-glass-and-newspaper-1913",
+      "level": 2,
+      "artName": "Bottle of Vieux Marc, Glass and Newspaper (1913)",
+      "author": "Georges Braque (verify)",
+      "description": "A Cubist still life: everyday objects and printed media are translated into geometry, rhythmic contours, and overlapping planes—more about perception than depiction.",
+      "curiousFact": "Cubism’s still-life tradition often used newspapers and bottle labels because typography instantly anchors the viewer in “real life,” even when the forms are abstracted.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_bottle-of-vieux-marc-glass-and-newspaper-1913.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_bottle-of-vieux-marc-glass-and-newspaper-1913.jpg.Large.jpg"
+    },
+    {
+      "id": "child-playing-in-camomilles-1953",
+      "level": 2,
+      "artName": "Child Playing in Camomilles (1953)",
+      "author": "Unknown (verify)",
+      "description": "A figurative scene centered on childhood play, typically read through gesture and posture more than strict realism; the emphasis is on mood and movement.",
+      "curiousFact": "Many mid-century works treat children as a way to explore spontaneity—artists often loosen technique to match the subject’s energy.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_child-playing-in-camomilles-1953.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_child-playing-in-camomilles-1953.jpg.Large.jpg"
+    },
+    {
+      "id": "female-bather",
+      "level": 2,
+      "artName": "Female Bather",
+      "author": "Unknown (verify)",
+      "description": "A classic modernist subject: the bather as a study of form, volume, and silhouette. Often the point is the geometry of the body rather than likeness.",
+      "curiousFact": "The “bather” motif is a multi-generation art tradition—artists revisit it to test new ideas about anatomy, space, and abstraction.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_female-bather.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_female-bather.jpg.Large.jpg"
+    },
+    {
+      "id": "head-of-a-woman-with-green-curls-1946",
+      "level": 2,
+      "artName": "Head of a Woman with Green Curls (1946)",
+      "author": "Pablo Picasso (verify)",
+      "description": "A portrait-head study in which facial features can be stylized or reorganized to emphasize expression, profile shifts, and emotional intensity.",
+      "curiousFact": "In many postwar portrait studies, artists intentionally distort proportions to make expression “louder” than realism.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_head-of-a-woman-with-green-curls-1946.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_head-of-a-woman-with-green-curls-1946.jpg.Large.jpg"
+    },
+    {
+      "id": "head-of-hurdy-gurdy-1905",
+      "level": 2,
+      "artName": "Head of a Hurdy-Gurdy (1905)",
+      "author": "Georges Braque (verify)",
+      "description": "A study linked to music/performance themes, often treated as a sculptural head form—mass, shadow, and contour matter more than detail.",
+      "curiousFact": "Music and instruments recur constantly in early modernism because they connect structure (rhythm) with emotion (tone).",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_head-of-hurdy-gurdy-1905.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_head-of-hurdy-gurdy-1905.jpg.Large.jpg"
+    },
+    {
+      "id": "lunch-on-the-grass-1",
+      "level": 2,
+      "artName": "Lunch on the Grass (Study 1)",
+      "author": "Claude Monet / Édouard Manet (verify)",
+      "description": "A picnic composition referencing one of modern art’s most famous setups: figures arranged outdoors, with contrast between casual leisure and formal composition.",
+      "curiousFact": "This theme became iconic because it challenged how “serious” painting could treat everyday life—and how the public reacted to it.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_lunch-on-the-grass-1.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_lunch-on-the-grass-1.jpg.Large.jpg"
+    },
+    {
+      "id": "madame-monet-and-child-1",
+      "level": 2,
+      "artName": "Madame Monet and Child (Study 1)",
+      "author": "Claude Monet (verify)",
+      "description": "A domestic, intimate scene—typically emphasizing light, atmosphere, and soft edges rather than hard outlines, aligning with Impressionist visual priorities.",
+      "curiousFact": "Impressionist family portraits often doubled as experiments in light: shade, reflections, and fabric textures were the real “subject.”",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_madame-monet-and-child.1.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_madame-monet-and-child.1.jpg.Large.jpg"
+    },
+    {
+      "id": "man-with-porron",
+      "level": 2,
+      "artName": "Man with Porron",
+      "author": "Pablo Picasso (verify)",
+      "description": "A figure study centered on a strong silhouette and a culturally specific object (the porron), often used to anchor narrative and gesture.",
+      "curiousFact": "Objects like pitchers, instruments, and newspapers were frequently used as “identity markers” in modernist portrait/figure work.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_man-with-porron.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_man-with-porron.jpg.Large.jpg"
+    },
+    {
+      "id": "nude-bust-1907",
+      "level": 2,
+      "artName": "Nude Bust (1907)",
+      "author": "Georges Braque / Pablo Picasso (verify)",
+      "description": "A compressed, sculptural torso study from a period when modern painters were simplifying anatomy into volumes and angles.",
+      "curiousFact": "Around this time, many artists treated the human figure as a laboratory for new geometry—faces and bodies became architectural.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_nude-bust-1907.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_nude-bust-1907.jpg.Large.jpg"
+    },
+    {
+      "id": "portrait-of-ambroise-vollard-1910",
+      "level": 2,
+      "artName": "Portrait of Ambroise Vollard (1910)",
+      "author": "Pablo Picasso (verify)",
+      "description": "A portrait associated with early Cubist fragmentation: the sitter is present as a construction of facets and tonal steps rather than a single viewpoint.",
+      "curiousFact": "Ambroise Vollard was one of the most important art dealers of his era—being painted by major artists often signaled cultural power as much as likeness.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_portrait-of-ambroise-vollard-1910.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_portrait-of-ambroise-vollard-1910.jpg.Large.jpg"
+    },
+    {
+      "id": "portrait-of-el-sany-pancraci",
+      "level": 2,
+      "artName": "Portrait of El Sany Pancraci",
+      "author": "Pablo Picasso (verify)",
+      "description": "A portrait work where emphasis typically falls on expressive construction—line, massing of features, and a deliberate departure from natural proportions.",
+      "curiousFact": "Portrait titles sometimes preserve nicknames or local references that outlive any public biography of the sitter.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_portrait-of-el-sany-pancraci.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_portrait-of-el-sany-pancraci.jpg.Large.jpg"
+    },
+    {
+      "id": "self-portrait",
+      "level": 2,
+      "artName": "Self-Portrait",
+      "author": "Georges Braque / Pablo Picasso (verify)",
+      "description": "A self-referential study that often prioritizes character, gaze, and painterly decisions over polish—useful as a record of style and identity at a moment in time.",
+      "curiousFact": "Artists use self-portraits as practice, branding, and psychological diary—one subject always available, endlessly variable.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_self-portrait.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_self-portrait.jpg.Large.jpg"
+    },
+    {
+      "id": "still-life-with-lemons-1907",
+      "level": 2,
+      "artName": "Still Life with Lemons (1907)",
+      "author": "Georges Braque (verify)",
+      "description": "A still life that likely bridges vivid color and structural simplification: fruit and tabletop forms become blocks of tone, contour, and balance.",
+      "curiousFact": "Still life became the perfect testbed for modernism—artists could control lighting, arrangement, and viewpoint like an experiment.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_still-life-with-lemons-1907.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_still-life-with-lemons-1907.jpg.Large.jpg"
+    },
+    {
+      "id": "studio-1920",
+      "level": 2,
+      "artName": "Studio (1920)",
+      "author": "Georges Braque (verify)",
+      "description": "An interior/studio motif where objects and space can flatten into a staged arrangement—less a room portrait, more a system of forms.",
+      "curiousFact": "“Studio” paintings often function as meta-art: art about making art, filled with coded references to tools and process.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_studio-1920.jpg.PinterestSmall.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_studio-1920.jpg.PinterestSmall.jpg"
+    },
+    {
+      "id": "study-of-cannes-1927",
+      "level": 2,
+      "artName": "Study of Cannes (1927)",
+      "author": "Georges Braque (verify)",
+      "description": "A study that suggests place through composition and tone rather than literal landscape detail—often a modernist approach to “sense of location.”",
+      "curiousFact": "“Study” titles usually indicate process: exploratory works that refine a visual idea rather than aim for a final statement.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_study-of-cannes-1927.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_study-of-cannes-1927.jpg"
+    },
+    {
+      "id": "untitled-1937-8",
+      "level": 2,
+      "artName": "Untitled (1937–1938)",
+      "author": "Pablo Picasso (verify)",
+      "description": "An untitled modern work from a highly charged late-1930s moment; often characterized by dramatic form distortion and heightened emotional contrast.",
+      "curiousFact": "When works are “Untitled,” art history often relies on catalogue numbers, dates, and imagery to place them in a broader narrative.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_untitled-1937-8.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_untitled-1937-8.jpg.Large.jpg.png"
+    },
+    {
+      "id": "untitled-1955",
+      "level": 2,
+      "artName": "Untitled (1955)",
+      "author": "Pablo Picasso (verify)",
+      "description": "A mid-1950s modern piece where simplified shapes and bold line decisions often carry the composition, prioritizing immediacy over finish.",
+      "curiousFact": "Mid-century works frequently look “fast,” but many are the result of decades of refinement—economy of line is usually earned, not rushed.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_untitled-1955.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_untitled-1955.jpg.Large.jpg"
+    },
+    {
+      "id": "zaandam-little-bridge",
+      "level": 2,
+      "artName": "Zaandam, Little Bridge",
+      "author": "Claude Monet (verify)",
+      "description": "A light-and-atmosphere landscape: water, sky, and architecture are rendered to capture shifting conditions rather than fixed detail.",
+      "curiousFact": "Impressionist river scenes often use bridges as compositional “anchors” against which light and reflection can fluctuate.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level2_zaandam-little-bridge.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level2_zaandam-little-bridge.jpg.Large.jpg"
+    },
+
+    {
+      "id": "composition-x-1939",
+      "level": 3,
       "artName": "Composition X (1939)",
       "author": "Wassily Kandinsky",
-      "artCuriousFact": "An abstract oil painting on a predominantly black field, with floating, sharply colored forms that read like a late-career “cosmic” arrangement—less about objects, more about rhythm, tension, and balance. It is held by Kunstsammlung Nordrhein-Westfalen (Düsseldorf).\n\nCurious fact: It’s the last of Kandinsky’s ten “Composition” paintings, and the dominant black was associated by him with closure/endings, making the palette choice unusually symbolic for his work.",
-      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level3_composition-x-1939.jpg",
-      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level3_composition-x-1939.jpg"
+      "description": "A late-period abstract composition on a dark field with floating, high-contrast forms—rhythm, tension, and balance replace literal objects.",
+      "curiousFact": "Kandinsky’s late abstractions often feel ‘cosmic’ because they lean into black space and bright signals, like symbols suspended in void.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level3_composition-x-1939.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level3_composition-x-1939.jpg"
     },
     {
+      "id": "dream-caused-by-the-flight-of-a-bee-around-a-pomegranate",
+      "level": 3,
+      "artName": "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening",
+      "author": "Salvador Dalí",
+      "description": "A surreal dream-logic tableau: hyper-real figures and impossible events staged with crisp clarity, designed to feel both precise and irrational.",
+      "curiousFact": "Dalí’s ‘dream mechanism’ approach often mixes classical rendering with bizarre narrative leaps—realism used to sell the unreal.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level3_Dream.Caused.by.the.Flight.of.a.Bee.around.a.Pomegranate.a.Second.before.Awakening.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level3_Dream.Caused.by.the.Flight.of.a.Bee.around.a.Pomegranate.a.Second.before.Awakening.jpg.Large.jpg"
+    },
+    {
+      "id": "marie-therese-leaning-1939",
+      "level": 3,
+      "artName": "Marie-Thérèse Leaning (1939)",
+      "author": "Pablo Picasso (verify)",
+      "description": "A portrait-associated work where the sitter’s presence is carried through bold contour, stylized anatomy, and psychologically charged distortion.",
+      "curiousFact": "Picasso’s portraits often treat the face as a shifting object—profile and frontal views can collide in one image.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level3_marie-therese-leaning-1939.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level3_marie-therese-leaning-1939.jpg"
+    },
+    {
+      "id": "on-white-ii-1923",
+      "level": 3,
+      "artName": "On White II (1923)",
+      "author": "Wassily Kandinsky",
+      "description": "A geometric abstraction with crisp forms hovering over a light ground; contrasts of line, circle, and angle create a musical sense of structure.",
+      "curiousFact": "Kandinsky intentionally linked abstraction to music—compositions are ‘played’ by the eye through rhythm and repetition.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level3_on-white-ii-1923.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level3_on-white-ii-1923.jpg"
+    },
+    {
+      "id": "yellow-red-blue-1925",
+      "level": 3,
       "artName": "Yellow-Red-Blue (Gelb-Rot-Blau) (1925)",
       "author": "Wassily Kandinsky",
-      "artCuriousFact": "A Bauhaus-era abstract composition built from geometric elements and color blocks, created in Weimar (spring 1925). The work is in the Centre Pompidou (Musée National d’Art Moderne), Paris.\n\nCurious fact: The painting entered the museum via a donation by Nina Kandinsky (1976)—a key reason why many major Kandinsky works are now in French collections.",
-      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level3_yellow-red-blue-1925.jpg",
-      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level3_yellow-red-blue-1925.jpg"
+      "description": "A Bauhaus-era abstract work built from geometric elements and color blocks, balancing strict structure with energetic color relationships.",
+      "curiousFact": "Kandinsky’s Bauhaus period is known for increased geometry—circles, lines, and grids become a kind of visual grammar.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level3_yellow-red-blue-1925.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level3_yellow-red-blue-1925.jpg"
     },
+
     {
-      "artName": "Mona Lisa (La Gioconda) (c. 1503–1506; possibly worked on later)",
+      "id": "monalisa",
+      "level": 5,
+      "artName": "Mona Lisa (La Gioconda)",
       "author": "Leonardo da Vinci",
-      "artCuriousFact": "Description: A half-length portrait, oil on a poplar panel, traditionally identified as Lisa del Giocondo; famous for Leonardo’s sfumato (smoky transitions) and the ambiguous expression. Displayed at the Louvre in Paris.\n\nCurious fact: Its modern celebrity spiked after the 1911 theft (recovered in 1914), which generated massive international publicity.",
-      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level5_monalisa.jpg",
-      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level5_%20monalisa.png",
-      "comment": "Your original Notion link had a space: 'ai_level5_ monalisa.png'. In URLs this must be encoded as %20."
+      "description": "A Renaissance portrait celebrated for soft transitions (sfumato), atmospheric depth, and an expression that reads differently depending on viewing distance and angle.",
+      "curiousFact": "It’s arguably the most analyzed portrait in Western art—its fame is a mix of technique, history, and cultural repetition.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level5_monalisa.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level5_.monalisa.png"
     },
     {
+      "id": "dali-portrait",
+      "level": 5,
+      "artName": "Dalí (Portrait)",
+      "author": "Salvador Dalí (verify)",
+      "description": "A portrait-style image associated with Dalí’s persona—often characterized by theatrical presentation, sharp contrast, and a deliberate “myth-making” aesthetic.",
+      "curiousFact": "Dalí treated self-image as an art medium; his public persona was part of the artwork’s ecosystem.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level5_Dali.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level5_Dali.jpg"
+    },
+    {
+      "id": "un-chien-andalou",
+      "level": 5,
+      "artName": "Un Chien Andalou",
+      "author": "Luis Buñuel & Salvador Dalí (verify)",
+      "description": "A surrealist film image/motif: abrupt scene logic, dream discontinuity, and symbolic shock designed to bypass conventional narrative.",
+      "curiousFact": "Surrealist cinema deliberately rejects ‘explanations’—the goal is to trigger subconscious associations, not tidy meaning.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level5_UnChienAndalou.png",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level5_UnChienAndalou.png"
+    },
+    {
+      "id": "gala-as-madonna-of-port-lligat",
+      "level": 5,
+      "artName": "Gala as Madonna of Port Lligat",
+      "author": "Salvador Dalí",
+      "description": "A religious-icon format filtered through surreal precision: sacred symbolism staged with Dalí’s hyper-real detail and idiosyncratic spacings.",
+      "curiousFact": "Dalí frequently cast Gala as muse, model, and symbolic anchor—she appears as a recurring ‘role’ across many works.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_gala-as-madonna-of-port-lligat.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level5_gala-as-madonna-of-port-lligat.jpg.Large.jpg"
+    },
+    {
+      "id": "self-portrait-with-brushes-1942",
+      "level": 5,
       "artName": "Self-Portrait with Brushes (1942)",
       "author": "Hans Hofmann",
-      "artCuriousFact": "A lively, stylized self-portrait showing Hofmann “at work,” using bold outlines and exaggerated features; it reads as both character study and statement of artistic identity.\n\nCurious fact: Hofmann is not only a major painter—he is widely regarded as one of the most influential art teachers of the 20th century, shaping generations of postwar American artists and helping set the stage for Abstract Expressionism.",
-      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level5_self-portrait-with-brushes-1942.jpg",
-      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level5_self-portrait-with-brushes-1942.png"
+      "description": "A stylized self-portrait presenting the painter at work—bold shapes, simplified anatomy, and an assertive ‘maker’ identity.",
+      "curiousFact": "Hofmann is famous not only for painting but for teaching; his ideas shaped how many artists thought about color and space.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level5_self-portrait-with-brushes-1942.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level5_self-portrait-with-brushes-1942.png"
     },
     {
+      "id": "the-persistence-of-memory-1931",
+      "level": 5,
+      "artName": "The Persistence of Memory (1931)",
+      "author": "Salvador Dalí",
+      "description": "A surreal landscape dominated by melting clocks—hard realism used to render impossible time, softness, and dreamlike logic.",
+      "curiousFact": "Dalí’s ‘soft watches’ became a shorthand for elastic time in popular culture—one of the most memed images in art history.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level5_the-persistence-of-memory-1931.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level5_the-persistence-of-memory-1931.jpg"
+    },
+
+    {
+      "id": "babymapofthe_world",
+      "level": 6,
+      "artName": "Baby Map of the World",
+      "author": "Salvador Dalí (verify)",
+      "description": "A surreal symbol-object composition where cartography/diagram logic collides with bodily or infant imagery—meaning built from unexpected category mashups.",
+      "curiousFact": "Surrealist titles often function like instructions for interpretation—half caption, half provocation.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level6_babymapofthe_world.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level6_babymapofthe_world.jpg"
+    },
+    {
+      "id": "portraitofjaimesabartesasgrandee",
+      "level": 6,
+      "artName": "Portrait of Jaime Sabartés as Grandee",
+      "author": "Pablo Picasso (verify)",
+      "description": "A portrait where costume/status cues meet modernist distortion—identity expressed through shape decisions as much as through facial likeness.",
+      "curiousFact": "Sabartés was a close associate; repeated portraits of the same person often show how style changes across years, not just how the sitter looks.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level6_PortraitofJaimeSabartesasGrandee.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level6_PortraitofJaimeSabartesasGrandee.jpg"
+    },
+
+    {
+      "id": "deep-within-the-ravine-1965",
+      "level": 7,
       "artName": "Deep Within the Ravine (1965)",
       "author": "Hans Hofmann",
-      "artCuriousFact": "A large-scale abstract oil painting that uses blocks and collisions of color to create depth and pressure—very aligned with Hofmann’s “push/pull” thinking about space in abstraction. The work is in The Metropolitan Museum of Art (New York).\n\nCurious fact: The Met’s example came via the Bequest of Renate Hofmann (1992), tying the painting directly to the artist’s estate history.",
-      "artLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/real_level7_deep-within-the-ravine-1965.jpg",
-      "aiLink": "https://raw.githubusercontent.com/itmaryna/isitai_warehouse-/main/ai_level7_deep-within-the-ravine-1965.jpg"
+      "description": "A color-driven abstraction using blocks and collisions to create depth and spatial pressure—space feels active, as if pushing and pulling.",
+      "curiousFact": "Hofmann’s approach is often summarized as ‘push/pull’: color contrast can make forms advance or recede without traditional perspective.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level7_deep-within-the-ravine-1965.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level7_deep-within-the-ravine-1965.jpg"
+    },
+
+    {
+      "id": "portrait-of-gala-with-a-lobster-portrait-of-gala-with-aeroplane-nose",
+      "level": 8,
+      "artName": "Portrait of Gala with a Lobster / Portrait of Gala with Aeroplane Nose",
+      "author": "Salvador Dalí",
+      "description": "A surreal portrait variation where identity is fused with objects (lobster / aeroplane form), creating symbolic hybrids that feel both humorous and unsettling.",
+      "curiousFact": "Dalí often used object substitutions in portraits to imply desire, fear, or obsession—like a visual metaphor made literal.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level8_portrait-of-gala-with-a-lobster-portrait-of-gala-with-aeroplane-nose.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level8_portrait-of-gala-with-a-lobster-portrait-of-gala-with-aeroplane-nose.jpg"
+    },
+    {
+      "id": "the-invisible-harp-fine-and-medium",
+      "level": 8,
+      "artName": "The Invisible Harp (Fine and Medium)",
+      "author": "Salvador Dalí (verify)",
+      "description": "A surreal composition built around the idea of an ‘absent object’—the harp is implied through surrounding forms and visual cues rather than fully depicted.",
+      "curiousFact": "Surrealism loves negative space: what’s missing becomes the point, forcing the viewer to complete the image mentally.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level8_the-invisible-harp-fine-and-medium-harpe-invisible-fine-et-moyenne.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level8_the-invisible-harp-fine-and-medium-harpe-invisible-fine-et-moyenne.jpg.Large.jpg"
+    },
+
+    {
+      "id": "surrealist-warriors-for-a-four-part-screen-centre-left",
+      "level": 9,
+      "artName": "Surrealist Warriors (for a Four-Part Screen, Centre-Left)",
+      "author": "Salvador Dalí (verify)",
+      "description": "A surrealist design-panel image: figures read as symbolic ‘characters’ more than anatomy, designed for staging across a multi-part visual structure.",
+      "curiousFact": "Multi-panel works let artists ‘edit’ meaning—adjacent panels change how you read a figure, like montage in film.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level9_surrealist-warriors-for-a-four-part-screen-centre-left.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level9_surrealist-warriors-for-a-four-part-screen-centre-left.jpg.Large.jpg"
+    },
+
+    {
+      "id": "face-of-mae-west-which-may-be-used-as-an-apartment",
+      "level": 3,
+      "artName": "Face of Mae West Which May Be Used as an Apartment",
+      "author": "Salvador Dalí",
+      "description": "An illusion-object concept where a face doubles as a room: individual features read as furniture, turning portraiture into architecture.",
+      "curiousFact": "Dalí loved double-images: once you ‘see it,’ your brain flips between interpretations and can’t fully settle on one.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level_3face-of-mae-west-which-may-be-used-as-an-apartment.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level_3face-of-mae-west-which-may-be-used-as-an-apartment.jpg.Large.jpg"
+    },
+    {
+      "id": "the-flames-they-call",
+      "level": 3,
+      "artName": "The Flames They Call",
+      "author": "Salvador Dalí (verify)",
+      "description": "A surreal composition that uses symbolic ‘heat’ imagery—flame-like shapes, atmospheric tension, and theatrical staging.",
+      "curiousFact": "Surrealist titles often act like poetry: they frame the mood more than they describe the scene.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_level_3_the-flames-they-call.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_level_3_the-flames-they-call.jpg.Large.jpg"
+    },
+    {
+      "id": "sleep",
+      "level": 0,
+      "artName": "Sleep",
+      "author": "Salvador Dalí (verify)",
+      "description": "A surreal head/figure image associated with suspension and fragility—sleep as a state where reality loosens and symbols take over.",
+      "curiousFact": "Surrealists treated sleep as a portal to ‘unfiltered’ imagery—dream logic was considered a creative resource.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_sleep.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_sleep.jpg.Large.jpg"
+    },
+    {
+      "id": "sometimes-i-spit-with-pleasure-on-the-portrait-of-my-mother-the-sacred-heart",
+      "level": 0,
+      "artName": "Sometimes I Spit with Pleasure on the Portrait of My Mother: The Sacred Heart",
+      "author": "Salvador Dalí (verify)",
+      "description": "A provocative title paired with surreal imagery—intended to confront reverence, taboo, and personal mythology through shock and symbolism.",
+      "curiousFact": "Surrealists used scandal strategically: controversy was a tool to disrupt polite interpretation and force emotional reaction.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_sometimes-i-spit-with-pleasure-on-the-portrait-of-my-mother-the-sacred-heart.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_sometimes-i-spit-with-pleasure-on-the-portrait-of-my-mother-the-sacred-heart.jpg.Large.jpg"
+    },
+    {
+      "id": "still-life-fish-with-red-bowl-1924",
+      "level": 0,
+      "artName": "Still Life: Fish with Red Bowl (1924)",
+      "author": "Pablo Picasso / Georges Braque (verify)",
+      "description": "A still life where the subject is secondary to composition: the ‘red bowl’ becomes a structural color anchor, balancing quieter forms around it.",
+      "curiousFact": "In modern still life, one saturated color is often used as a compositional ‘magnet’—it organizes the rest of the painting.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_still-life-fish-with-red-bowl-1924.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_still-life-fish-with-red-bowl-1924.jpg.Large.jpg"
+    },
+    {
+      "id": "the-invisible-harp",
+      "level": 0,
+      "artName": "The Invisible Harp",
+      "author": "Salvador Dalí (verify)",
+      "description": "A surrealist work that builds an object by implication—edges, shadows, and surrounding cues suggest a form that isn’t fully present.",
+      "curiousFact": "Viewers ‘complete’ implied objects automatically; surrealists exploited this to make absence feel oddly concrete.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_the-invisible-harp.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_the-invisible-harp.jpg.Large.jpg"
+    },
+    {
+      "id": "untitled-dreams-on-the-beach",
+      "level": 0,
+      "artName": "Untitled: Dreams on the Beach",
+      "author": "Salvador Dalí (verify)",
+      "description": "A coastal dream-scene: beach space used as an ‘empty stage’ where surreal objects can appear with theatrical clarity.",
+      "curiousFact": "Open horizons (sea/sky) are a surrealist favorite—simple backgrounds make strange foreground events feel even more uncanny.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/real_untitled-dreams-on-the-beach.jpg.Large.jpg",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/art_barch_monet_dali_picasso/ai_untitled-dreams-on-the-beach.jpg.Large.jpg"
     }
+  ],
+  "notes": [
+    "All URLs point to the GitHub Release assets under the tag 'art_barch_monet_dali_picasso'.",
+    "Several author attributions are marked '(verify)' where the filename alone is not sufficient for 100% confident identification.",
+    "If you want strict accuracy, I can convert every '(verify)' into a confirmed artist by cross-checking each title against authoritative catalog entries—then regenerate this JSON."
   ]
 }
