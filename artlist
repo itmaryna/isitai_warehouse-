@@ -2380,6 +2380,85 @@
       "curiousFact": "When you compare images side-by-side, look for consistent fine texture, plausible lighting, and coherent small details—those are often the hardest things to fake.",
       "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/just_images/real_horse-5029491_640.jpg",
       "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/just_images/ai_macaw-8374506_640.jpg"
+    },{
+      "id": "139650-773417986_tiny",
+      "level": 2,
+      "artName": "Video Clip 139650-773417986 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "AI video often struggles with temporal consistency—small details (hands, edges, reflections) can subtly “drift” frame-to-frame.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_139650-773417986_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_256067_tiny.mp4"
+    },
+    {
+      "id": "28039-367196758_tiny",
+      "level": 2,
+      "artName": "Video Clip 28039-367196758 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "Look for unnatural motion blur or overly “smooth” surfaces—AI can make everything feel slightly plastic or too perfect.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_28039-367196758_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_173604-849645960_tiny.mp4"
+    },
+    {
+      "id": "226795_tiny",
+      "level": 2,
+      "artName": "Video Clip 226795 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "Fine repeated patterns (grass, hair, fabric) are common giveaway zones—AI may smear or “average” them across frames.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_226795_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_241574_tiny.mp4"
+    },
+    {
+      "id": "17732-284467872_tiny",
+      "level": 2,
+      "artName": "Video Clip 17732-284467872 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "Shadows are hard: AI may render shadows that don’t fully match object contact points or light direction over time.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_17732-284467872_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_211502_tiny.mp4"
+    },
+    {
+      "id": "35124-404782768_tiny",
+      "level": 2,
+      "artName": "Video Clip 35124-404782768 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "Reflections and specular highlights (metal, glass, water) can look “painted on” in AI video instead of physically reacting.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_35124-404782768_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_310147_tiny.mp4"
+    },
+    {
+      "id": "47026-450094903_tiny",
+      "level": 2,
+      "artName": "Video Clip 47026-450094903 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "Check edges during movement: AI may produce warping outlines or unstable silhouettes on fast motion.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_47026-450094903_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_325750_tiny.mp4"
+    },
+    {
+      "id": "117093-710564011_tiny",
+      "level": 2,
+      "artName": "Video Clip 117093-710564011 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "AI can “guess” missing details—watch for objects that subtly change shape or texture without a physical reason.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_117093-710564011_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_298976_tiny.mp4"
+    },
+    {
+      "id": "230690_tiny",
+      "level": 2,
+      "artName": "Video Clip 230690 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A short real-world video clip paired with an AI-generated counterpart for a quick visual authenticity challenge (motion, textures, lighting, and temporal consistency).",
+      "curiousFact": "Natural camera noise and imperfect exposure shifts often feel more “alive”; AI may look too clean or too evenly lit.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/real_230690_tiny.mp4",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/video_database/ai_283310_tiny.mp4"
     }
   ],
   "notes": [
