@@ -2880,6 +2880,926 @@
       "curiousFact": "AI may produce inconsistent object boundaries on fast motion—watch for edge shimmer, doubling, or brief distortions.",
       "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/new_videos_batch/real_65306-514138842_tiny.mp4",
       "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/new_videos_batch/ai_185888-876579680_tiny.mp4"
+    },
+{
+      "id": "clock-ticking-sound-effect-240503",
+      "level": 2,
+      "artName": "Audio Clip clock-ticking-sound-effect-240503 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_clock-ticking-sound-effect-240503.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_relaxing-guitar-loop-4-427403.mp3"
+    },
+    {
+      "id": "cymbal-riser-sound-effect-241379",
+      "level": 2,
+      "artName": "Audio Clip cymbal-riser-sound-effect-241379 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cymbal-riser-sound-effect-241379.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_free-dog-bark-sound-427412.mp3"
+    },
+    {
+      "id": "intro-music-black-box-edm-sound-effect-12213",
+      "level": 2,
+      "artName": "Audio Clip intro-music-black-box-edm-sound-effect-12213 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_intro-music-black-box-edm-sound-effect-12213.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_free-dog-barking-sounds-427411.mp3"
+    },
+    {
+      "id": "midwest-emo-guitar-sample-b-min-clean-120-bpm-448317",
+      "level": 2,
+      "artName": "Audio Clip midwest-emo-guitar-sample-b-min-clean-120-bpm-448317 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_midwest-emo-guitar-sample-b-min-clean-120-bpm-448317.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_video-game-power-up-no-copyright-394327.mp3"
+    },
+    {
+      "id": "music-box-69223",
+      "level": 2,
+      "artName": "Audio Clip music-box-69223 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_music-box-69223.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_epic-cinematic-piano-amp-strings-motivational-background-music-013-447621.mp3"
+    },
+    {
+      "id": "snare-drum-acoustic-sample-455287",
+      "level": 2,
+      "artName": "Audio Clip snare-drum-acoustic-sample-455287 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_snare-drum-acoustic-sample-455287.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-19-no-copyright-410278.mp3"
+    },
+    {
+      "id": "metal-hit-sound-effect-241374",
+      "level": 2,
+      "artName": "Audio Clip metal-hit-sound-effect-241374 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_metal-hit-sound-effect-241374.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_dog-barking-sound-effect-427408.mp3"
+    },
+    {
+      "id": "mystery-music-loop-226835",
+      "level": 2,
+      "artName": "Audio Clip mystery-music-loop-226835 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_mystery-music-loop-226835.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_car-drift-sound-effect-type-4-no-copyright-406996.mp3"
+    },
+    {
+      "id": "crowd-clapping-and-cheering-effect-272056",
+      "level": 2,
+      "artName": "Audio Clip crowd-clapping-and-cheering-effect-272056 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_crowd-clapping-and-cheering-effect-272056.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_emotional-cinematic-piano-005-motivational-background-music-447613.mp3"
+    },
+    {
+      "id": "whoosh-effect-405447",
+      "level": 2,
+      "artName": "Audio Clip whoosh-effect-405447 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_whoosh-effect-405447.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_car-drift-sound-effect-type-3-no-copyright-406998.mp3"
+    },
+    {
+      "id": "silly-ghost-sound-242342",
+      "level": 2,
+      "artName": "Audio Clip silly-ghost-sound-242342 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_silly-ghost-sound-242342.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_whale-sound-effect-no-copyright-390902.mp3"
+    },
+    {
+      "id": "crowd-shouting-hey-hey-hey-272059",
+      "level": 2,
+      "artName": "Audio Clip crowd-shouting-hey-hey-hey-272059 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_crowd-shouting-hey-hey-hey-272059.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_cinematic-intro-transition-sound-effect-no-copyright-406995.mp3"
+    },
+    {
+      "id": "midwest-emo-guitar-sample-g-minor-clean-120-bpm-448315",
+      "level": 2,
+      "artName": "Audio Clip midwest-emo-guitar-sample-g-minor-clean-120-bpm-448315 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_midwest-emo-guitar-sample-g-minor-clean-120-bpm-448315.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_lion-roaring-sound-effect-no-copyright-352860.mp3"
+    },
+    {
+      "id": "leap-motiv-113893",
+      "level": 2,
+      "artName": "Audio Clip leap-motiv-113893 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_leap-motiv-113893.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_videogame-power-up-sound-effect-02-no-copyright-352862.mp3"
+    },
+    {
+      "id": "reverse-vocal-sound-effect-242363",
+      "level": 2,
+      "artName": "Audio Clip reverse-vocal-sound-effect-242363 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_reverse-vocal-sound-effect-242363.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_monkey-noise-sound-effect-no-copyright-390900.mp3"
+    },
+    {
+      "id": "cold-meat-280526",
+      "level": 2,
+      "artName": "Audio Clip cold-meat-280526 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cold-meat-280526.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-15-no-copyright-410282.mp3"
+    },
+    {
+      "id": "male-laughing-sound-effect-241417",
+      "level": 2,
+      "artName": "Audio Clip male-laughing-sound-effect-241417 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_male-laughing-sound-effect-241417.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-18-no-copyright-410280.mp3"
+    },
+    {
+      "id": "happy-vlog-music-450863",
+      "level": 2,
+      "artName": "Audio Clip happy-vlog-music-450863 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_happy-vlog-music-450863.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_monkey-noise-sound-effect-no-copyright-390901.mp3"
+    },
+    {
+      "id": "riser-swoosh-transition-390289",
+      "level": 2,
+      "artName": "Audio Clip riser-swoosh-transition-390289 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_riser-swoosh-transition-390289.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-14-no-copyright-410281.mp3"
+    },
+    {
+      "id": "dandiko-guitar-204872",
+      "level": 2,
+      "artName": "Audio Clip dandiko-guitar-204872 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_dandiko-guitar-204872.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_scary-music-box-untuned-427401.mp3"
+    },
+    {
+      "id": "switchboard-sounds-441223",
+      "level": 2,
+      "artName": "Audio Clip switchboard-sounds-441223 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_switchboard-sounds-441223.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_time-reverse-sound-effect-no-copyright-405790.mp3"
+    },
+    {
+      "id": "midwest-emo-guitar-sample-b-minor-clean-120-bpm-448311",
+      "level": 2,
+      "artName": "Audio Clip midwest-emo-guitar-sample-b-minor-clean-120-bpm-448311 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_midwest-emo-guitar-sample-b-minor-clean-120-bpm-448311.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_elephant-triumph-sound-effect-no-copyright-405798.mp3"
+    },
+    {
+      "id": "relaxing-guitar-loop-v5-245859",
+      "level": 2,
+      "artName": "Audio Clip relaxing-guitar-loop-v5-245859 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_relaxing-guitar-loop-v5-245859.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_horse-neigh-no-copyright-sound-effect-421865.mp3"
+    },
+    {
+      "id": "helicopter-sound-effect-241421",
+      "level": 2,
+      "artName": "Audio Clip helicopter-sound-effect-241421 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_helicopter-sound-effect-241421.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_loud-woosh-sound-effect-no-copyright-390906.mp3"
+    },
+    {
+      "id": "breaking-news-intro-logo-3-314322",
+      "level": 2,
+      "artName": "Audio Clip breaking-news-intro-logo-3-314322 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_breaking-news-intro-logo-3-314322.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_creepy-untuned-music-box-427400.mp3"
+    },
+    {
+      "id": "meditation-music-sound-bite-339735",
+      "level": 2,
+      "artName": "Audio Clip meditation-music-sound-bite-339735 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_meditation-music-sound-bite-339735.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_printer-sound-effect-no-copyright-394246.mp3"
+    },
+    {
+      "id": "epic-glitch-logo-402329",
+      "level": 2,
+      "artName": "Audio Clip epic-glitch-logo-402329 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_epic-glitch-logo-402329.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_siren-sound-effect-no-copyright-390903.mp3"
+    },
+    {
+      "id": "midwest-emo-guitar-sample-d-minor-clean-120-bpm-448318",
+      "level": 2,
+      "artName": "Audio Clip midwest-emo-guitar-sample-d-minor-clean-120-bpm-448318 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_midwest-emo-guitar-sample-d-minor-clean-120-bpm-448318.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_high-frequency-woosh-sound-effect-no-copyright-390904.mp3"
+    },
+    {
+      "id": "midwest-emo-guitar-sample-d-minor-clean-120-bpm-448312",
+      "level": 2,
+      "artName": "Audio Clip midwest-emo-guitar-sample-d-minor-clean-120-bpm-448312 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_midwest-emo-guitar-sample-d-minor-clean-120-bpm-448312.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_elephant-triumph-sfx-no-copyright-422151.mp3"
+    },
+    {
+      "id": "cartoon-violin-sound-effect-241389",
+      "level": 2,
+      "artName": "Audio Clip cartoon-violin-sound-effect-241389 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cartoon-violin-sound-effect-241389.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_evil-witch-laugh-sound-effect-no-copyright-394247.mp3"
+    },
+    {
+      "id": "air-raid-siren-sound-effect-241383",
+      "level": 2,
+      "artName": "Audio Clip air-raid-siren-sound-effect-241383 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_air-raid-siren-sound-effect-241383.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_realistic-frog-croak-sfx-no-copyright-422152.mp3"
+    },
+    {
+      "id": "bird-sounds-241394",
+      "level": 2,
+      "artName": "Audio Clip bird-sounds-241394 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_bird-sounds-241394.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_buzzing-of-bees-no-copyright-422154.mp3"
+    },
+    {
+      "id": "breaking-news-intro-logo-314320",
+      "level": 2,
+      "artName": "Audio Clip breaking-news-intro-logo-314320 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_breaking-news-intro-logo-314320.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_dolphin-sounds-no-copyright-422158.mp3"
+    },
+    {
+      "id": "cinematic-background-1-299421",
+      "level": 2,
+      "artName": "Audio Clip cinematic-background-1-299421 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cinematic-background-1-299421.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-11-no-copyright-410285.mp3"
+    },
+    {
+      "id": "cooking-frying-sizzling-food-free-kitchen-sound-effect-382864",
+      "level": 2,
+      "artName": "Audio Clip cooking-frying-sizzling-food-free-kitchen-sound-effect-382864 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cooking-frying-sizzling-food-free-kitchen-sound-effect-382864.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_emergency-alarmsiren-type-01-no-copyright-410303.mp3"
+    },
+    {
+      "id": "tonal-fountain-sound-effect-241390",
+      "level": 2,
+      "artName": "Audio Clip tonal-fountain-sound-effect-241390 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_tonal-fountain-sound-effect-241390.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-17-no-copyright-410279.mp3"
+    },
+    {
+      "id": "snake-hiss-sound-effect-no-copyright-410798",
+      "level": 2,
+      "artName": "Audio Clip snake-hiss-sound-effect-no-copyright-410798 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_snake-hiss-sound-effect-no-copyright-410798.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_realistic-frog-croak-sfx-no-copyright-422153.mp3"
+    },
+    {
+      "id": "notification-sound-type-16-no-copyright-410277",
+      "level": 2,
+      "artName": "Audio Clip notification-sound-type-16-no-copyright-410277 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_notification-sound-type-16-no-copyright-410277.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-13-no-copyright-410283.mp3"
+    },
+    {
+      "id": "energetic-upbeat-background-music-logo-372129",
+      "level": 2,
+      "artName": "Audio Clip energetic-upbeat-background-music-logo-372129 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_energetic-upbeat-background-music-logo-372129.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_car-drift-sound-effect-type-1-406997.mp3"
+    },
+    {
+      "id": "quick-whoosh-405448",
+      "level": 2,
+      "artName": "Audio Clip quick-whoosh-405448 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_quick-whoosh-405448.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_crow-sound-effect-no-copyright-410792.mp3"
+    },
+    {
+      "id": "ghostly-304742",
+      "level": 2,
+      "artName": "Audio Clip ghostly-304742 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_ghostly-304742.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_snake-hiss-sound-effect-no-copyright-410796.mp3"
+    },
+    {
+      "id": "cinematic-background-2-299422",
+      "level": 2,
+      "artName": "Audio Clip cinematic-background-2-299422 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cinematic-background-2-299422.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_videogame-power-up-sound-effect-01-no-copyright-352863.mp3"
+    },
+    {
+      "id": "saxophone-playing-242340",
+      "level": 2,
+      "artName": "Audio Clip saxophone-playing-242340 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_saxophone-playing-242340.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_crowd-laughing-421840.mp3"
+    },
+    {
+      "id": "drums-loop-75bpm-3-455453",
+      "level": 2,
+      "artName": "Audio Clip drums-loop-75bpm-3-455453 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_drums-loop-75bpm-3-455453.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_asmr-jungle-soundscape-422165.mp3"
+    },
+    {
+      "id": "pop-402323",
+      "level": 2,
+      "artName": "Audio Clip pop-402323 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_pop-402323.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_one-short-binary-code4-301464.mp3"
+    },
+    {
+      "id": "rain-sound-no-copyright-346776",
+      "level": 2,
+      "artName": "Audio Clip rain-sound-no-copyright-346776 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_rain-sound-no-copyright-346776.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_drill-drums-loop-sound-effect-311581.mp3"
+    },
+    {
+      "id": "calming-rain-398651",
+      "level": 2,
+      "artName": "Audio Clip calming-rain-398651 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_calming-rain-398651.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_copyright-free-fire-crackling-427409.mp3"
+    },
+    {
+      "id": "pop-402322",
+      "level": 2,
+      "artName": "Audio Clip pop-402322 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_pop-402322.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_creepy-sound-creepy-robot-380620.mp3"
+    },
+    {
+      "id": "female-saying-meowww-no-copyright-sound-effect-444559",
+      "level": 2,
+      "artName": "Audio Clip female-saying-meowww-no-copyright-sound-effect-444559 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_female-saying-meowww-no-copyright-sound-effect-444559.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_heavy-breathing-of-a-big-creature-421876.mp3"
+    },
+    {
+      "id": "rise-304744",
+      "level": 2,
+      "artName": "Audio Clip rise-304744 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_rise-304744.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_exotic-tropical-bugs-sounds-asmr-422163.mp3"
+    },
+    {
+      "id": "classic-suspense-choir-sound-effect-no-copyright-338979",
+      "level": 2,
+      "artName": "Audio Clip classic-suspense-choir-sound-effect-no-copyright-338979 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_classic-suspense-choir-sound-effect-no-copyright-338979.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_cow-moo-sound-effect-no-copyright-414537.mp3"
+    },
+    {
+      "id": "chainsaw-start-218438",
+      "level": 2,
+      "artName": "Audio Clip chainsaw-start-218438 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_chainsaw-start-218438.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_heavy-breathing-of-a-big-creature-421875.mp3"
+    },
+    {
+      "id": "pop-402324",
+      "level": 2,
+      "artName": "Audio Clip pop-402324 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_pop-402324.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_quack-sound-effect-no-copyright-410800.mp3"
+    },
+    {
+      "id": "hahahaha-no-copyright-sound-effect-444566",
+      "level": 2,
+      "artName": "Audio Clip hahahaha-no-copyright-sound-effect-444566 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_hahahaha-no-copyright-sound-effect-444566.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_dj-scratch-pattern-4-452583.mp3"
+    },
+    {
+      "id": "hahahaha-no-copyright-sound-effect-444564",
+      "level": 2,
+      "artName": "Audio Clip hahahaha-no-copyright-sound-effect-444564 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_hahahaha-no-copyright-sound-effect-444564.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_trap-drums-loop-sound-effect-311579.mp3"
+    },
+    {
+      "id": "scars-tiny-tune-209482",
+      "level": 2,
+      "artName": "Audio Clip scars-tiny-tune-209482 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_scars-tiny-tune-209482.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_trap-tops-drums-loop-sound-effect-311576.mp3"
+    },
+    {
+      "id": "simple-drum-kick-loop-230756",
+      "level": 2,
+      "artName": "Audio Clip simple-drum-kick-loop-230756 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_simple-drum-kick-loop-230756.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_ich-bin-hier-460949.mp3"
+    },
+    {
+      "id": "bass-drop-2-390293",
+      "level": 2,
+      "artName": "Audio Clip bass-drop-2-390293 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_bass-drop-2-390293.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_ich-bin-hier-460949%20%281%29.mp3"
+    },
+    {
+      "id": "bass-drop-390291",
+      "level": 2,
+      "artName": "Audio Clip bass-drop-390291 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_bass-drop-390291.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_conclusion-music-sfx-saxophone-353309.mp3"
+    },
+    {
+      "id": "red-wine-guitar-210143",
+      "level": 2,
+      "artName": "Audio Clip red-wine-guitar-210143 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_red-wine-guitar-210143.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_rusted-gate-453735.mp3"
+    },
+    {
+      "id": "notification-sound-type-20-no-copyright-410276",
+      "level": 2,
+      "artName": "Audio Clip notification-sound-type-20-no-copyright-410276 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_notification-sound-type-20-no-copyright-410276.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_tape-rewinding-460825.mp3"
+    },
+    {
+      "id": "drums-loop-80bpm-455452",
+      "level": 2,
+      "artName": "Audio Clip drums-loop-80bpm-455452 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_drums-loop-80bpm-455452.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_merry-christmas-time-2-449254.mp3"
+    },
+    {
+      "id": "loops_2-161139",
+      "level": 2,
+      "artName": "Audio Clip loops_2-161139 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_loops_2-161139.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_rewind-tape-452515.mp3"
+    },
+    {
+      "id": "stompz-1-304745",
+      "level": 2,
+      "artName": "Audio Clip stompz-1-304745 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_stompz-1-304745.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_quick-reverb-farts-sound-effects-451004.mp3"
+    },
+    {
+      "id": "piano-chords-239967",
+      "level": 2,
+      "artName": "Audio Clip piano-chords-239967 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_piano-chords-239967.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_emergency-alarmsiren-type-02-no-copyright-410299.mp3"
+    },
+    {
+      "id": "deep-808-230752",
+      "level": 2,
+      "artName": "Audio Clip deep-808-230752 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_deep-808-230752.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_rusted-gate-453735%20%281%29.mp3"
+    },
+    {
+      "id": "stompz-3-304747",
+      "level": 2,
+      "artName": "Audio Clip stompz-3-304747 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_stompz-3-304747.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-alert-9-331720.mp3"
+    },
+    {
+      "id": "sounds-effect_1-174046",
+      "level": 2,
+      "artName": "Audio Clip sounds-effect_1-174046 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_sounds-effect_1-174046.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_trap-tops-drums-loop-sound-effect-311580.mp3"
+    },
+    {
+      "id": "cricket-chirps-331498",
+      "level": 2,
+      "artName": "Audio Clip cricket-chirps-331498 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cricket-chirps-331498.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_96bpm-hiphop-219035.mp3"
+    },
+    {
+      "id": "woman-screaming-loudly-sound-effect-415155",
+      "level": 2,
+      "artName": "Audio Clip woman-screaming-loudly-sound-effect-415155 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_woman-screaming-loudly-sound-effect-415155.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_taco-bell-bong-sfx-460818.mp3"
+    },
+    {
+      "id": "bicycle-wheel-sfx-1-304068",
+      "level": 2,
+      "artName": "Audio Clip bicycle-wheel-sfx-1-304068 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_bicycle-wheel-sfx-1-304068.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-alert-2-331726.mp3"
+    },
+    {
+      "id": "reggaeton-basic-drums-loop-9-11513",
+      "level": 2,
+      "artName": "Audio Clip reggaeton-basic-drums-loop-9-11513 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_reggaeton-basic-drums-loop-9-11513.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_relaxing-guitar-257871.mp3"
+    },
+    {
+      "id": "cartoon-trombone-sound-effect-241387",
+      "level": 2,
+      "artName": "Audio Clip cartoon-trombone-sound-effect-241387 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_cartoon-trombone-sound-effect-241387.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_140-break-152033.mp3"
+    },
+    {
+      "id": "breaking-news-intro-logo-2-314321",
+      "level": 2,
+      "artName": "Audio Clip breaking-news-intro-logo-2-314321 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_breaking-news-intro-logo-2-314321.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_t-rex-grunt-463131.mp3"
+    },
+    {
+      "id": "sizzling-cooking-frying-free-kitchen-free-sound-effect-382866",
+      "level": 2,
+      "artName": "Audio Clip sizzling-cooking-frying-free-kitchen-free-sound-effect-382866 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_sizzling-cooking-frying-free-kitchen-free-sound-effect-382866.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_vine-boom-sound-410789.mp3"
+    },
+    {
+      "id": "excuse-me-no-copyright-sound-effect-444551",
+      "level": 2,
+      "artName": "Audio Clip excuse-me-no-copyright-sound-effect-444551 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_excuse-me-no-copyright-sound-effect-444551.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_relaxing-guitar-loop-4-427403.mp3"
+    },
+    {
+      "id": "telispcal-guitar-privcrypt-tiny-204325",
+      "level": 2,
+      "artName": "Audio Clip telispcal-guitar-privcrypt-tiny-204325 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_telispcal-guitar-privcrypt-tiny-204325.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_free-dog-bark-sound-427412.mp3"
+    },
+    {
+      "id": "hahahaha-no-copyright-sound-effect-444565",
+      "level": 2,
+      "artName": "Audio Clip hahahaha-no-copyright-sound-effect-444565 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_hahahaha-no-copyright-sound-effect-444565.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_free-dog-barking-sounds-427411.mp3"
+    },
+    {
+      "id": "ghostly-swoosh-sound-effect-no-copyright-394244",
+      "level": 2,
+      "artName": "Audio Clip ghostly-swoosh-sound-effect-no-copyright-394244 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_ghostly-swoosh-sound-effect-no-copyright-394244.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_video-game-power-up-no-copyright-394327.mp3"
+    },
+    {
+      "id": "head-to-the-left-no-copyright-sound-effect-444560",
+      "level": 2,
+      "artName": "Audio Clip head-to-the-left-no-copyright-sound-effect-444560 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_head-to-the-left-no-copyright-sound-effect-444560.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_epic-cinematic-piano-amp-strings-motivational-background-music-013-447621.mp3"
+    },
+    {
+      "id": "switchboard-sounds-441223-1",
+      "level": 2,
+      "artName": "Audio Clip switchboard-sounds-441223-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_switchboard-sounds-441223%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-19-no-copyright-410278.mp3"
+    },
+    {
+      "id": "helicopter-sound-effect-241421-1",
+      "level": 2,
+      "artName": "Audio Clip helicopter-sound-effect-241421-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_helicopter-sound-effect-241421%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_dog-barking-sound-effect-427408.mp3"
+    },
+    {
+      "id": "meditation-music-sound-bite-339735-1",
+      "level": 2,
+      "artName": "Audio Clip meditation-music-sound-bite-339735-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_meditation-music-sound-bite-339735%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_car-drift-sound-effect-type-4-no-copyright-406996.mp3"
+    },
+    {
+      "id": "midwest-emo-guitar-sample-b-minor-clean-120-bpm-448311-1",
+      "level": 2,
+      "artName": "Audio Clip midwest-emo-guitar-sample-b-minor-clean-120-bpm-448311-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_midwest-emo-guitar-sample-b-minor-clean-120-bpm-448311%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_emotional-cinematic-piano-005-motivational-background-music-447613.mp3"
+    },
+    {
+      "id": "red-wine-guitar-210143-1",
+      "level": 2,
+      "artName": "Audio Clip red-wine-guitar-210143-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_red-wine-guitar-210143%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_car-drift-sound-effect-type-3-no-copyright-406998.mp3"
+    },
+    {
+      "id": "bass-drop-390291-1",
+      "level": 2,
+      "artName": "Audio Clip bass-drop-390291-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_bass-drop-390291%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_whale-sound-effect-no-copyright-390902.mp3"
+    },
+    {
+      "id": "bass-drop-2-390293-1",
+      "level": 2,
+      "artName": "Audio Clip bass-drop-2-390293-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_bass-drop-2-390293%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_cinematic-intro-transition-sound-effect-no-copyright-406995.mp3"
+    },
+    {
+      "id": "simple-drum-kick-loop-230756-1",
+      "level": 2,
+      "artName": "Audio Clip simple-drum-kick-loop-230756-1 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_simple-drum-kick-loop-230756%20%281%29.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_lion-roaring-sound-effect-no-copyright-352860.mp3"
+    },
+    {
+      "id": "crowd-with-a-slow-beat-272062",
+      "level": 2,
+      "artName": "Audio Clip crowd-with-a-slow-beat-272062 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_crowd-with-a-slow-beat-272062.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_videogame-power-up-sound-effect-02-no-copyright-352862.mp3"
+    },
+    {
+      "id": "binary-keyboard-3-304737",
+      "level": 2,
+      "artName": "Audio Clip binary-keyboard-3-304737 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_binary-keyboard-3-304737.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_monkey-noise-sound-effect-no-copyright-390900.mp3"
+    },
+    {
+      "id": "drums-loop-75bpm-2-455451",
+      "level": 2,
+      "artName": "Audio Clip drums-loop-75bpm-2-455451 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_drums-loop-75bpm-2-455451.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-15-no-copyright-410282.mp3"
+    },
+    {
+      "id": "chill-relaxing-rain-copyright-free-364444",
+      "level": 2,
+      "artName": "Audio Clip chill-relaxing-rain-copyright-free-364444 (Real vs AI)",
+      "author": "Unknown (verify)",
+      "description": "A real audio clip paired with an AI-generated counterpart for an authenticity challenge (transients, noise floor, spectral texture, and decay).",
+      "curiousFact": "A common tell is unnatural smoothness: AI audio can have overly clean silence or oddly uniform noise texture.",
+      "artLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/real_chill-relaxing-rain-copyright-free-364444.mp3",
+      "aiLink": "https://github.com/itmaryna/isitai_warehouse-/releases/download/audio_release/ai_notification-sound-type-18-no-copyright-410280.mp3"
     }
   ],
   "notes": [
